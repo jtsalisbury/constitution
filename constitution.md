@@ -12,11 +12,11 @@ This is a living document. All changes are public and can be viewed with the Git
 
 1. The Chapter is organized and will be operated exclusively for educational and scientific purposes to promote the following:
 
-  a. An increased knowledge of and greater interest in the science, design, development, construction, languages, management and applications of modern computing.
+    a. An increased knowledge of and greater interest in the science, design, development, construction, languages, management and applications of modern computing.
 
-  b. Greater interest in computing and its applications.
+    b. Greater interest in computing and its applications.
 
-  c. A means of communication between persons having an interest in computing.
+    c. A means of communication between persons having an interest in computing.
 
 2. The Chapter will serve students at the University of Cincinnati and other interested persons in the Cincinnati community.
 
@@ -70,29 +70,29 @@ Ratification by two-thirds (2/3) of the voting members of the Chapter shall be s
 
 3. The Secretary shall keep the minutes of all Chapter and Executive Council meetings. Other duties of the Secretary include:
 
-  a. Maintaining the records of the Chapter.
+    a. Maintaining the records of the Chapter.
 
-  b. Preparation of the Chapter's activity report and officer contact information, and submission of these to ACM Headquarters.
+    b. Preparation of the Chapter's activity report and officer contact information, and submission of these to ACM Headquarters.
 
-  c. Submission of any proposed amendment to these bylaws to the ACM Chief Operating Officer. Proposed amendments must be approved before they can be submitted to the Chapter's membership for a vote.
+    c. Submission of any proposed amendment to these bylaws to the ACM Chief Operating Officer. Proposed amendments must be approved before they can be submitted to the Chapter's membership for a vote.
 
-  d. Performance of other duties as assigned by the Chair.
+    d. Performance of other duties as assigned by the Chair.
 
 4. The Treasurer shall collect dues, pay all bills, and maintain the Chapter's financial records. Duties of the Treasurer also shall include:
 
-  a. Preparation of the Chapter's Annual Financial Report for presentation to the Chapter at the Annual Election meeting.
+    a. Preparation of the Chapter's Annual Financial Report for presentation to the Chapter at the Annual Election meeting.
 
-  b. Completion and submission of the Annual Financial Report to ACM Headquarters.
+    b. Completion and submission of the Annual Financial Report to ACM Headquarters.
 
-  c. Performance of other duties as assigned by the Chair.
+    c. Performance of other duties as assigned by the Chair.
 
 5. The Webmaster shall maintain the website, Listserv, and any social media for the Chapter. Duties of the Webmaster shall also include:
 
-  a. Maintenance of the official Chapter email account.
+    a. Maintenance of the official Chapter email account.
 
-  b. Maintenance of the official Chapter Calendar.
+    b. Maintenance of the official Chapter Calendar.
 
-  c. Performance of other duties as assigned by the Chair.
+    c. Performance of other duties as assigned by the Chair.
 
 ### Section II: Elections
 
@@ -120,19 +120,19 @@ Ratification by two-thirds (2/3) of the voting members of the Chapter shall be s
 
 4. The Student Chapter Sponsor shall be generally responsible for the activities of the Chapter. Specifically, the Sponsor:
 
-  a. helps provide continuity from year to year as student leadership and personnel change; 
+    a. helps provide continuity from year to year as student leadership and personnel change; 
 
-  b. promotes good student-faculty relationships; 
+    b. promotes good student-faculty relationships; 
 
-  c. helps maintain university standards in all activities of the Chapter; 
+    c. helps maintain university standards in all activities of the Chapter; 
 
-  d. exercises financial supervision, if necessary, by:
+    d. exercises financial supervision, if necessary, by:
 
-  e. promoting prompt payment of bills and collection of dues, and
+    e. promoting prompt payment of bills and collection of dues, and
 
-  f. overseeing the settlement of all accounts in the event of dissolution of the Chapter; and
+    f. overseeing the settlement of all accounts in the event of dissolution of the Chapter; and
 
-  g. represents the Chapter interests to the faculty and administration.
+    g. represents the Chapter interests to the faculty and administration.
 
 ### Section V: Standing Committees
 
@@ -234,16 +234,17 @@ Any member may initiate officers' removal by the following procedure:
 
 3. Actions and activities, which are explicitly prohibited, include, but shall not be limited to the following:
 
-  a. Any activity that creates a substantial risk of physical or mental harm.
+    a. Any activity that creates a substantial risk of physical or mental harm.
 
-  b. Paddling, beating, or hitting individuals.
+    b. Paddling, beating, or hitting individuals.
 
-  c. Wearing anything designed to be degrading or to cause discomfort.
+    c. Wearing anything designed to be degrading or to cause discomfort.
 
-  d. Depriving individuals of the opportunity to obtain a minimum of six hours of sleep per day, proper and adequate means, or access to means, of maintaining body cleanliness.
+    d. Depriving individuals of the opportunity to obtain a minimum of six hours of sleep per day, proper and adequate means, or access to means, of maintaining body cleanliness.
 
-  e. Activities that interfere with an individual's academic efforts by causing exhaustion of loss of reasonable study time.
+    e. Activities that interfere with an individual's academic efforts by causing exhaustion of loss of reasonable study time.
 
 4. The Chapter **does not** discriminate against qualified members of the University on the basis of their race, color, creed, religion, national origin, sex, gender, age, marital status, ability, or veteran status.
 
 5. Any member violating these bylaws in regard to hazing/discrimination shall lose all privileges of membership. They will be subject to any applicable University policies and applicable state of Ohio laws.
+
