@@ -136,13 +136,15 @@ Ratification by two-thirds (2/3) of the voting members of the Chapter shall be s
 
 ### Section V: Standing Committees
 
-1. The standing committees of the Chapter shall be Conferences and Education, Membership, and Outreach and Public Relations.
+1. The standing committees of the Chapter shall be Conferences and Education, Membership, Outreach and Public Relations, and Hackathon Planning.
 
 2. The Conferences and Education Committee shall be in charge of planning and leading all educational events. This committee shall also focus on retaining wisdom and knowledge of the Chapter members.
 
 3. The Membership Committee shall lead the recruitment and retention of Chapter members and nonmembers. They shall encourage nonmembers to join the Chapter if possible.
 
-4. The Outreach and Public Relations Committee shall handle relations with alumni who were members of the Chapter. Furthermore, Outreach and Public Relations will be in charge of handling relations and publicity with the Cincinnati community and the University of Cincinnati community, as well as fundraising for the Chapter
+4. The Outreach and Public Relations Committee shall handle relations with alumni who were members of the Chapter. Furthermore, Outreach and Public Relations will be in charge of handling relations and publicity with the Cincinnati community and the University of Cincinnati community, as well as fundraising for the Chapter.
+
+5. The Hackathon Planning Committee shall head the organization and execution of the annual hackathon. The Chair of this committee shall act as the Director for all hackathon affairs. They shall appoint team leads with the approval of the Chapter's Executive Council. 
 
 ### Section VI: Temporary Committees
 
